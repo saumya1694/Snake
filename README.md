@@ -22,16 +22,3 @@ python snake.py
 * ← : Left
 * → : Right
 
-## Note
-
-For better controls, replace:
-
-```python id="i1u3xk"
-window.bind("<KeyRelease>", change_direction)
-```
-
-with:
-
-```python id="r1k8zp"
-window.bind("<KeyPress>", change_direction)
-```
