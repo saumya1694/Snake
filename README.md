@@ -15,10 +15,5 @@ A simple Snake Game built using Python and Tkinter. Control the snake with arrow
 python snake.py
 ```
 
-## Controls
 
-* ↑ : Up
-* ↓ : Down
-* ← : Left
-* → : Right
 
