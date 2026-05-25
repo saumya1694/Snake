@@ -9,11 +9,6 @@ A simple Snake Game built using Python and Tkinter. Control the snake with arrow
 * Score tracking
 * Game over detection
 
-## Run the Game
-
-```bash id="dfg4k1"
-python snake.py
-```
 
 
 
