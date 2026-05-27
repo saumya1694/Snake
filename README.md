@@ -6,7 +6,7 @@ A simple Snake Game built using Python and Tkinter. Control the snake with arrow
 
 * Arrow key controls
 * Random food generation
-* Score tracking
+
 
 
 
